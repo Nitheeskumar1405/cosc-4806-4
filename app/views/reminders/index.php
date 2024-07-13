@@ -5,6 +5,7 @@
             <div class="col-lg-12">
                 <h1>Reminders</h1>
                 <p><a href="/reminders/create" class="btn btn-primary">Create a new reminder</a></p>
+                <p><a href="/home" class="btn btn-secondary">Home</a></p> <!-- Added Home button -->
             </div>
         </div>
     </div>

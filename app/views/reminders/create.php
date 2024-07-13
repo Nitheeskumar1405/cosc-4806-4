@@ -4,6 +4,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1>Create a New Reminder</h1>
+                <p><a href="/home" class="btn btn-secondary">Home</a></p> <!-- Added Home button -->
             </div>
         </div>
     </div>
