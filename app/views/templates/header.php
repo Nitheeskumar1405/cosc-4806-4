@@ -12,6 +12,7 @@
             <h1>My Website</h1>
             <ul>
                 <li><a href="/home">Home</a></li>
+                <li><a href="/reminders">Reminders</a></li>
                 <li><a href="/login">Login</a></li>
                 <li><a href="/logout">Logout</a></li>
                 <li><a href="/create">Create Account</a></li>
